@@ -1,2 +1,2 @@
 # SCT_WD_2
-Calculator
+Calculator Web Application
